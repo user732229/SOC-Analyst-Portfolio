@@ -1,0 +1,17 @@
+# Packet captures — review and sanitize before considering publication
+*.pcap
+*.pcapng
+*.cap
+
+# Potentially sensitive exports
+*.key
+*.pem
+*.p12
+*.pfx
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

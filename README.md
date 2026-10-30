@@ -8,7 +8,7 @@ Hands-on cybersecurity labs focused on SOC Tier 1 skills: network traffic analys
 
 | Area | Focus | Status |
 |---|---|---|
-| Network analysis | Wireshark, DNS, TCP/IP, protocol inspection | First lab documented |
+| Traffic analysis | Wireshark, DNS, TCP/IP, protocol inspection | First lab documented |
 | Phishing analysis | Email headers, URLs, sender validation | Planned |
 | Windows telemetry | Event logs and suspicious activity | Planned |
 | Linux telemetry | Authentication and system logs | Planned |
@@ -17,7 +17,8 @@ Hands-on cybersecurity labs focused on SOC Tier 1 skills: network traffic analys
 
 ## Labs
 
-- [Wireshark Traffic Analysis](./01-Network-Analysis/Wireshark-Traffic-Analysis/README.md) — LetsDefend challenge documented with packet counts, endpoint analysis, NTP conversation review, and JNDI/LDAP probe investigation.
+- [Traffic Analysis](./01-Traffic-Analysis/README.md) — network traffic investigations.
+- [Wireshark labs](./01-Traffic-Analysis/Wireshark/README.md) — packet analysis exercises.
 
 ## Documentation standard
 

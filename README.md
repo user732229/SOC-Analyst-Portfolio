@@ -18,7 +18,6 @@ Hands-on cybersecurity labs focused on SOC Tier 1 skills: network traffic analys
 ## Labs
 
 - [Traffic Analysis](./01-Traffic-Analysis/README.md) — network traffic investigations.
-- [Wireshark labs](./01-Traffic-Analysis/Wireshark/README.md) — packet analysis exercises.
 
 ## Documentation standard
 
